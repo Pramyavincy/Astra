@@ -10,7 +10,7 @@
 
 <b> For full tutorial, refer to <a href='https://github.com/Cryptonian007/Astra/blob/main/how_to_use.txt'>how_to_use.txt</a> </b>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Gp-Public/video-bot-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Pramyavincy/Astra
 
 
 # Features ♨️
